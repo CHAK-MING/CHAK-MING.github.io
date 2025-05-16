@@ -1,5 +1,11 @@
 # BitMap Queue CPU 调度器
 
+## 🔗 项目源码链接
+
+- [bmq.c](https://github.com/CHAK-MING/CHAK-MING.github.io/blob/master/bmq.c)
+- [bmq_debug.c](https://github.com/CHAK-MING/CHAK-MING.github.io/blob/master/bmq_debug.c)
+- [bmq_sched.h](https://github.com/CHAK-MING/CHAK-MING.github.io/blob/master/bmq_sched.h)
+
 ## 1. 项目背景
 
 
